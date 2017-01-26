@@ -1,0 +1,4 @@
+ name = "Siddharth Gupta"
+ SID = "3032166801"
+ email = "siddharth_gupta@berkeley.edu"
+ github_name = "sidgupta1004"
